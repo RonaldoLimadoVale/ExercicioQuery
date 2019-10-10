@@ -1,7 +1,8 @@
 # ExercicioQuery
 CRUD com Spring Boot @Query
 
-Caminho:ExercicioQuery/programacaoweb/src/main/java/dev/fujioka/java/avancado/web/repository/UserRepository.java
+Caminho para as Querys:
+https://github.com/RonaldoLimadoVale/ExercicioQuery/blob/master/programacaoweb/src/main/java/dev/fujioka/java/avancado/web/repository/UserRepository.java
 
 Aluno:Ronaldo Lima do Vale
 
